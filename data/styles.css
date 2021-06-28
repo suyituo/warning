@@ -59,3 +59,10 @@
 ._文本段落 {
   text-align:left;
 }
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
