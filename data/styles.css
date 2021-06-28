@@ -11,6 +11,11 @@
 }
 ._图片 {
 }
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
   font-weight:bold;
@@ -63,6 +68,14 @@
   color:#000000;
   text-align:left;
 }
+.checkbox {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
+}
 .tree_node {
   text-align:left;
+}
+.table_cell {
 }
